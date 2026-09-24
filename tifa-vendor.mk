@@ -17,7 +17,6 @@ PRODUCT_COPY_FILES += \
     vendor/sdmc/tifa/proprietary/vendor/etc/mesondisplay.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/mesondisplay.cfg \
     vendor/sdmc/tifa/proprietary/vendor/etc/permissions/android.hardware.hardware_keystore.amlogic.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.hardware_keystore.amlogic.xml \
     vendor/sdmc/tifa/proprietary/vendor/etc/permissions/droidlogic.software.netflix.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/droidlogic.software.netflix.xml \
-    vendor/sdmc/tifa/proprietary/vendor/lib/firmware/aucpu_fw.bin:$(TARGET_COPY_OUT_VENDOR)/lib/firmware/aucpu_fw.bin \
     vendor/sdmc/tifa/proprietary/vendor/lib/firmware/video/video_ucode.bin:$(TARGET_COPY_OUT_VENDOR)/lib/firmware/video/video_ucode.bin \
     vendor/sdmc/tifa/proprietary/vendor/lib/firmware/wcnmodem.bin:$(TARGET_COPY_OUT_VENDOR)/lib/firmware/wcnmodem.bin \
     vendor/sdmc/tifa/proprietary/vendor/lib/firmware/wifi_board_config.ini:$(TARGET_COPY_OUT_VENDOR)/lib/firmware/wifi_board_config.ini \

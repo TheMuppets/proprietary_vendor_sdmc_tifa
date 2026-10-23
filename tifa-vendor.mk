@@ -42,8 +42,6 @@ PRODUCT_PACKAGES += \
     liboemcrypto \
     libsecmem \
     libwifi-hal-uni \
-    libHwAudio_dcvdec \
-    libHwAudio_dtshd \
     android.hardware.oemlock@1.0-service.droidlogic.xml \
     android.hardware.security.keymint-service-no-rkp.amlogic.xml \
     android.hardware.oemlock@1.0-service.droidlogic \
